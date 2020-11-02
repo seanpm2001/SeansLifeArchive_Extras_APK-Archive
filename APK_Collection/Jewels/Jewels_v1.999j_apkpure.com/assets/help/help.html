@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+    <title>
+      Jewels Help
+    </title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+  </head>
+  <body>
+    <h1><img src="title.png" alt="Jewels Help" title="Jewels Help" /></h1>
+	
+	<p>Thank you for installing Jewels! To get back into the game, press the <b>BACK</b>-button.
+	Also: feel free to follow <b>MHGames</b> on Twitter <a href="https://twitter.com/mhgames_">@mhgames_</a>! :)</p>
+	
+	<div class="box">
+	<h3>Table of contents:</h3>
+    <ol>
+      <li><a href="#1">Introduction</a></li>
+      <li><a href="#2">How to play</a>
+		<ul>
+			<li><a href="#2_1">How the scoring works</a></li>
+			<li><a href="#2_2">How the TIMED mode works</a></li>
+			<li><a href="#2_3">How the QUICK mode works</a></li>
+			<li><a href="#2_4">How the INFINITE mode works</a></li>
+		</ul>
+	  </li>
+      <li><a href="#3">Credits</a></li>
+    </ol>
+	</div>
+
+	<a href="#" name="1"></a>
+    <h2>1. INTRODUCTION</h2>
+	<p>Jewels is a simple, yet polished match-3 puzzle game similar to the original Bejeweled.
+	This version is a port from the <a href="http://www.mhgames.org/jewels">
+    original PC-version</a>, which I did earlier as an <i>XNA</i> programming exercise. After I got
+    my <i>Android</i>-phone, it felt only natural to dive into the <i>Android</i>-platform by
+    remaking this game. So, here we are.</p>
+	
+	<p>All that aside, the game is still quite fun to play. <b>:)</b> I daresay it actually works
+	better as a mobile game, even though the graphical effects are obviously no match for the
+	PC-version.</p>
+	
+    <a href="#" name="2"></a>
+	<h2>3. HOW TO PLAY</h2>
+	<p>Jewels follows the basic match-3 rules. You swap adjacent jewels to
+    create combinations of three or more jewels in same color. You can either drag
+	with your finger across two jewels, or touch a jewel, then another to initiate the swap.
+	After removing jewels, new jewels drop down to the playfield. Quite often the falling jewels
+    create new valid combinations, causing a chain reaction (or cascade), which
+    grants you more points. The scoring is described at the end of this
+    section.</p>
+    
+	<p>At the bottom of the screen you see a bonus bar, which slowly fills up as
+    you remove jewels from the playfield. When the bonus bar reaches the end,
+    you'll advance to the next bonus level. Between every level change, 16
+    random jewels are also removed from the playfield. The bonus level
+    corresponds to the bonus multiplier that affects your score.</p>
+
+    <a href="#" name="2_1"></a>
+    <h3>How the scoring works:</h3>
+	<p>For three removed jewels you get <b>10</b> points. For four, you get <b>20</b> points
+    and for five you get <b>30</b> points. When you destroy two or more sets of jewels
+    in the same "chain" / cascade, every set gets <b>30</b> points more than the
+    previous one. An example: you remove two jewel sets of three jewels each:
+    <b>10p + (10+30)p = 10p + 40p = 50</b> points total.</p>
+    
+	<p>Every time you score, the points get multiplied by the bonus level
+    multiplier. On the first level it's <b>1x</b>, on the second level it's <b>2x</b> and so
+    on.</p>
+    
+    <p>The bonus bar requires an increasing amount of jewels to fill up at every
+    level. In fact the jewels required for the next level are two times the
+    previous amount required. For example, to reach level two, you need to
+    destroy 80 jewels. To reach level three, you need to destroy 160 jewels.
+    320 jewels for the fourth level, and so on.</p>
+    
+    <a href="#" name="2_2"></a>
+    <h3>How the TIMED mode works:</h3>
+	<p>In timed mode, the bonus bar serves as a time bar, which measures the
+    time remaining. Once the bar reaches zero, there is no time left and the
+    game is over.</p>
+	
+	<p>At each level the time bar starts from the half, and slowly
+    decreases. You must spot and remove jewels fairly quickly in order to
+    survive. You get more time for each set of jewels you remove. Cascades
+    grant you even more time. Once the time bar fills up, you will advance to
+    the next bonus level, and the time goes back to the half way again. The
+    time goes a little bit faster on each bonus level.</p>
+	
+	<p>Spotting valid moves quickly and creating cascades is the key to the success in the TIMED
+    mode.</p>
+    
+	<a href="#" name="2_3"></a>
+	<h3>How the QUICK mode works</h3>
+	<p>In quick mode, you have 75 seconds to earn as much points as possible. Act quickly, and with some luck you can
+	have long cascades and get that high score! The timer is paused when the board gets refilled with jewels.</p>
+	
+	<p>The bonus represents the time left, decreasing constantly. The actual bonus level progress follows the logic of the NORMAL mode,
+	except that it's sped up a bit in QUICK mode (i.e. you need less jewels to reach the next level).</p>
+	</div> 
+	
+	<a href="#" name="2_4"></a>
+	<h3>How the INFINITE mode works:</h3>
+	<p>Due to popular demand, infinite mode was added in version 1.18. This mode
+	is same as the normal mode, except that when there are no more moves to make, the game
+	refills the board with fresh jewels.</p>
+	
+	<p>Do note that there are no high scores kept for the infinite mode, as it would be pretty much
+	pointless to do so - after all there is nothing stopping people from playing for say, weeks,
+	utilizing the save / continue -feature.</p>
+
+	<a href="#" name="3"></a>
+    <h2>4. CREDITS</h2>
+	<p>All the code, graphics and that sort of thing by <b>Mika Halttunen</b>. Come check
+	out our other games at <a href="http://www.mhgames.org">MHGames.org</a>!</p>
+
+	<p><a href="http://www.mhgames.org"><img src="mhgames.png" title="MHGames" alt="MHGames" /></a></p>
+	
+	<p>The game idea is of course <b>heavily</b> inspired by the original
+    Bejeweled and indirectly by Shariki, my hat's off to those guys who made the original games.</p>
+
+	<p>Sound effects are from various places, most of them from XNA example games, as
+	the original PC-version of Jewels used XNA. I've modified most of the sounds a bit,
+	and mixed new sounds out of two or more existing samples.</p>
+	
+	<pre>
+    Samples used from Freesound
+    
+    April 20, 2010
+        By acclivity (http://www.freesound.org/usersViewSingle.php?id=37876)
+            Glug2.wav (http://www.freesound.org/samplesViewSingle.php?id=19991)
+    ---------------------------------------
+    </pre>
+	
+    <p>Thanks to the good folks at <b>Scoreloop</b> for providing the global high scores (in the earlier versions)! :)
+    Thanks to Janne Kytömäki for sample code on OpenSL ES SoundPool!</p>
+    
+    <p>Also thanks to Viktor Malachinski for testing the game on Galaxy Tab!</p>
+
+	<p>That is all. Thanks for reading and enjoy the game!</br>
+    <b>- Mika</b></p>
+  </body>
+</html>

@@ -1,0 +1,288 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/bonus.png
+SHA1-Digest: ciyCn3vmjcF3NBJpUpxR3HZ34DA=
+
+Name: res/drawable/bground4.jpg
+SHA1-Digest: FoMsQWcvr4gh7ezEnMkGoq2amnU=
+
+Name: res/raw/nextlevel.wav
+SHA1-Digest: 3boL/n1j6Fkx2XBJrqrW937pO6U=
+
+Name: res/drawable/bonusbar_fill.png
+SHA1-Digest: Dovap0y8ur44lZWqTw0zUcpKUSw=
+
+Name: res/drawable/logo.png
+SHA1-Digest: cS+YKS3k3gIeflFbb8W24G59h4s=
+
+Name: res/drawable-xhdpi/j2banner.png
+SHA1-Digest: z1KNCyEIIJ0TDzSv+kLo5NTpyqM=
+
+Name: res/drawable-hdpi/j2promo.jpg
+SHA1-Digest: hEJ79Bdemm80l/RtzZ6vSWFPrFw=
+
+Name: res/drawable/mhgames.png
+SHA1-Digest: dN1EZ4WpkvebuNWgmz2tiBcoWeE=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead1.png
+SHA1-Digest: yQa2+bHZKODE9i3N2jhPMosnrCY=
+
+Name: res/drawable-nodpi/hdpi_logo.png
+SHA1-Digest: qXk8U32ZWqZ/DpiutQRILY0oo+E=
+
+Name: res/drawable/jewel_dead2.png
+SHA1-Digest: 6GF1VvT4iIeqB+jIhJQ2WCzfDPc=
+
+Name: res/drawable/bground1.jpg
+SHA1-Digest: EYPDv8bypgRncwjpn9p8YoXZ09g=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead6.png
+SHA1-Digest: lXvfizoGYCInr5V3Bn0otoahhHs=
+
+Name: jsr305_annotations/v0_r47/V0_r47.gwt.xml
+SHA1-Digest: /f34xYwskAvrKqRB+jFPzJ8rPJg=
+
+Name: res/drawable-nodpi/hdpi_pocket_change_icon.png
+SHA1-Digest: ceVXEQWvTBzYoL5wch+VuVWy+N4=
+
+Name: res/drawable/jewel4.png
+SHA1-Digest: Oq5DWzypS+ErqvxUKWpru5Uf0wQ=
+
+Name: res/drawable/jewel_dead3.png
+SHA1-Digest: p7xPszAnofrzqoOCGztRG03nI0k=
+
+Name: res/raw/drop1.wav
+SHA1-Digest: fDyR8ZsJ/3a29KGDaW6PeXRZn6k=
+
+Name: assets/fonts/bluehigh.ttf
+SHA1-Digest: Z3mHc1Y9aYB852MXhrQJlj41MaU=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead3.png
+SHA1-Digest: /zY6evXm2ur3pDTM/YbrEa6l6lc=
+
+Name: res/drawable/menubutton2.png
+SHA1-Digest: NGAwmaJJJR0Z0bstDNtk5NgUFjQ=
+
+Name: res/drawable/spark1.png
+SHA1-Digest: kZgHOPn6YxBfaX//vJJy/VwXYH4=
+
+Name: res/drawable/jewel_dead6.png
+SHA1-Digest: I5HxgEidVNcr1uS83G8lf6NdBWw=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: UBXHoAGmseBGDwjR6/MFHfcIK7g=
+
+Name: res/drawable-nodpi/hdpi_jewel4.png
+SHA1-Digest: Rwxp6nD7ZZCADffIdy7acwgk9ek=
+
+Name: res/drawable/jewel6.png
+SHA1-Digest: giaBvJiu+j6q6sc+PGkWzvet2kc=
+
+Name: res/drawable-nodpi/hdpi_bground3.jpg
+SHA1-Digest: cj7Kk/wUr29Ccm23q0aMwyDP1Dc=
+
+Name: res/drawable-nodpi/hdpi_bground4.jpg
+SHA1-Digest: /RSuuMKTHde1Jm4KvqCmRvdX7Y8=
+
+Name: res/drawable/menubutton_small2.png
+SHA1-Digest: aKGHUcrMouyqsjLjeakFPmLUIeM=
+
+Name: res/drawable/jewel_dead4.png
+SHA1-Digest: vh+2FpdYytKEFv28A2rElUM2VLg=
+
+Name: res/drawable/jewel7.png
+SHA1-Digest: C9vr7RIHZHeVjp2qAXF+TKfj3UY=
+
+Name: res/drawable/list_icon.png
+SHA1-Digest: l3oN+9UlR2mNYEDWFtxpS8JsbuI=
+
+Name: res/layout/main.xml
+SHA1-Digest: FjP3clHq0ddU0ICev5rHbj8g7/g=
+
+Name: assets/help/title.png
+SHA1-Digest: WJsSfIwlfRfifG6MoJ2qhUFAQG4=
+
+Name: res/drawable/jewel_dead7.png
+SHA1-Digest: shN9O1Bm4O9IS7YixBPqS4heOkc=
+
+Name: res/drawable/scorefont2.png
+SHA1-Digest: BVHnuFesx1kbXsiYCFcLubKg+40=
+
+Name: res/drawable/jewel2.png
+SHA1-Digest: /FaRbS4oNX34HiTqXH3g8PZJutA=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead7.png
+SHA1-Digest: YOM89pK4uUTIYARuM0ReoVNrSGk=
+
+Name: res/drawable-nodpi/hdpi_bground2.jpg
+SHA1-Digest: vRDNPC35oWeEFO7y6i5tb8F/cOw=
+
+Name: res/drawable/title_bg4.jpg
+SHA1-Digest: zKRWEGIax8pVGASeUXndvq5csg8=
+
+Name: res/drawable/scorefont.png
+SHA1-Digest: bTK2cwy9fnm0UJRBOK11yjVRLz4=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead4.png
+SHA1-Digest: +fbrJzWaRJwwH3PrOxT40s6CCps=
+
+Name: res/raw/glug2.wav
+SHA1-Digest: O2pZamIuLD2nJwXC6EsA2LbfaDc=
+
+Name: assets/help/help.html
+SHA1-Digest: kFUo18w0HaohF7HnlY9bth6qwb4=
+
+Name: res/drawable-nodpi/hdpi_jewel2.png
+SHA1-Digest: svzk6+qzkE7jgEmIjtmqRLctSWU=
+
+Name: res/drawable-nodpi/hdpi_jewel5.png
+SHA1-Digest: iJdOK1DA11rOHapo44f204eUslc=
+
+Name: res/drawable/jewel_dead1.png
+SHA1-Digest: NvlWUQcBaz4t0VQ0Q4zysWu9+94=
+
+Name: res/drawable/title_bg3.jpg
+SHA1-Digest: umS3aFBO1wnjUqg+kH7ONgYa/YE=
+
+Name: res/drawable/arrow_left.png
+SHA1-Digest: lALww8Fo6l5xPlass3u1aPzjF5U=
+
+Name: res/drawable/title_bg2.jpg
+SHA1-Digest: 51DQnLc/uURFgntY+kx9PRKLXbg=
+
+Name: resources.arsc
+SHA1-Digest: B8rqoO9NwUnrZHqdUHR6RwrDudU=
+
+Name: assets/help/style.css
+SHA1-Digest: bD8F0ipbKXZ3n8F7cN0gY2DDf28=
+
+Name: res/drawable-nodpi/hdpi_title_bg3.jpg
+SHA1-Digest: INc+1nnlon0MBJuPjkHFtzyvdAw=
+
+Name: res/drawable/menubutton_small1.png
+SHA1-Digest: AqRex4QAKuOn3+rST6q2LC8umeg=
+
+Name: res/drawable-nodpi/hdpi_jewel6.png
+SHA1-Digest: iJLgUwP2c6C3uiBOXV7zpFiC8rQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ly9KybOYKbNEOl177ADd7SogUKU=
+
+Name: res/drawable/jewel1.png
+SHA1-Digest: R5ulEc8VCIP0Jf6PVd69KMyvpqs=
+
+Name: res/drawable/backarrow.png
+SHA1-Digest: 36VtAeMOWrY0Th6bfkcz6O/wSwQ=
+
+Name: res/drawable/menubutton1.png
+SHA1-Digest: JMym3SwiGa24QarKezErWnUyx6E=
+
+Name: res/raw/drop2.wav
+SHA1-Digest: Q3ILL00Q30mL26P6GcZa0BEQQVg=
+
+Name: res/drawable-nodpi/hdpi_jewel3.png
+SHA1-Digest: k7CkLYgsJ0gDZYl8kJBNrfHoJew=
+
+Name: assets/help/bg.png
+SHA1-Digest: NOXabw5EkF0I055KKXAjJP6dHlU=
+
+Name: res/drawable/title_bg1.jpg
+SHA1-Digest: XkCzd3UCy3Pe2iG2P/Zxruf2/RY=
+
+Name: res/drawable/spark2.png
+SHA1-Digest: T1qRR74/g71RhGS5IDimMfRi+E0=
+
+Name: res/raw/gameover.wav
+SHA1-Digest: YXvy7BTIUkT4a0cq9eWC7Rvtz6o=
+
+Name: res/drawable/jewel5.png
+SHA1-Digest: HWMyEsTW+MhWwq00TZnTvVpV0ho=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: upx2HuAZj7IblAPzMRlYvI6oy0o=
+
+Name: res/drawable-nodpi/hdpi_title_bg4.jpg
+SHA1-Digest: d+L80s4hC9kpJRiFOl4HGPPdxhw=
+
+Name: res/drawable-nodpi/hdpi_title_bg1.jpg
+SHA1-Digest: EXOLPwXXMRncUAbmfr0ZBFYaZXs=
+
+Name: res/drawable-nodpi/hdpi_selection.png
+SHA1-Digest: Chs25so12gpdlXGGCAO2pcN8wno=
+
+Name: res/drawable-nodpi/hdpi_jewel7.png
+SHA1-Digest: 4vAkov4lbYJRJlcamrX3oBVqHqM=
+
+Name: res/raw/remove.wav
+SHA1-Digest: cZYBvyXkjZEMisrnReuxhnYFZ+A=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead2.png
+SHA1-Digest: n4N02NXa1fDem1B8BHv3AZ3fyzw=
+
+Name: res/drawable-hdpi/j2banner.png
+SHA1-Digest: vzem8aZJurjojf2r+oWNENRs1Xk=
+
+Name: res/layout/entername_dialog.xml
+SHA1-Digest: ne5pzZ9KdJiGvrrguveoIpAW6+A=
+
+Name: res/drawable/jewel_dead5.png
+SHA1-Digest: 8eL2sroqUJgs6exzAsVuIgxAAIg=
+
+Name: res/drawable/selection.png
+SHA1-Digest: DNKiwaS1hLFuqbTU7Q1Ke6CJB7o=
+
+Name: res/drawable/bground2.jpg
+SHA1-Digest: 8pcerctA1eCk0S14UPpg3unDijM=
+
+Name: res/drawable/jewel3.png
+SHA1-Digest: kYSbYj0Nme710/MvKQJ5fTs7UWQ=
+
+Name: classes.dex
+SHA1-Digest: BPqHdPfWYOQatzVZYXhYWzid9wY=
+
+Name: res/raw/illegal_move.wav
+SHA1-Digest: //bFwbxbBdLsGjNm/ien3ie3wM4=
+
+Name: res/layout/j2promo.xml
+SHA1-Digest: T9l6A2LpOYvLBQJNWa0ITBqDfOo=
+
+Name: res/drawable/j2banner.png
+SHA1-Digest: QWqsb0DK+RvM68Vg1zmfFdS487A=
+
+Name: res/drawable/arrow_right.png
+SHA1-Digest: y0/RsXUiFhZCk2lPTF4IbIIdUOc=
+
+Name: res/drawable/icon.png
+SHA1-Digest: HGhdJk9F9MiPGYC9hXMJOqdcEPI=
+
+Name: res/drawable-nodpi/hdpi_jewel_dead5.png
+SHA1-Digest: aaVfX3hFpIgWpKCB9T0yWjYWwK0=
+
+Name: res/drawable/bonusbar.png
+SHA1-Digest: BQh2BfB+FIBWbh/sKLz4d0APYAg=
+
+Name: res/drawable-nodpi/hdpi_bground1.jpg
+SHA1-Digest: sN7iNvdCVf/7gpsxQmvQ/svnIkE=
+
+Name: res/drawable-nodpi/hdpi_jewel1.png
+SHA1-Digest: 0YsQAtaMSXLmOzJ5hieB8FwT51I=
+
+Name: res/layout/settings_dialog.xml
+SHA1-Digest: abcwoU66XIfUqzLaHbPPropsZHg=
+
+Name: res/drawable/board.png
+SHA1-Digest: Ri1cp1sOWKjsOc7UteB0RMYwFIE=
+
+Name: res/drawable-nodpi/hdpi_title_bg2.jpg
+SHA1-Digest: 5qHxr7pc29pYO/I2wDsRn4HHhKo=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: cUdrEQV9Prc+bX8iPX1ZxMbkrMg=
+
+Name: res/drawable/bground3.jpg
+SHA1-Digest: R03gLCvk/9H4ecjt5M4jAzxWjl4=
+
+Name: assets/help/mhgames.png
+SHA1-Digest: HJUVVAOjbqJ0N5sFDfCMmTNrHfA=
+
