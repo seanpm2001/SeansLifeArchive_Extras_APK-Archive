@@ -1,0 +1,48 @@
+body {
+	background-image: url('bg.png');
+	background-repeat: repeat;
+	color: black;
+}
+
+h2 {
+	color: rgb(31,90,142);
+	border-bottom: 3px solid #77a8d1;
+
+	background-color: #b5d3ed;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	
+	padding: 0.15em;
+	
+	text-shadow: #6b86a4 2px 2px 4px;
+}
+
+h3, h4 {
+	color: rgb(31,90,142);
+	border-bottom: 2px dotted rgb(31,90,142);
+}
+
+div.box {
+	background-color: white;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border: 1px solid #b5d3ed;
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+p {
+	text-align: justify;
+}
+
+p a, p a:visited, p a:link, p a:hover {
+	color: #48704a;
+	/*border-bottom: 1px dotted #48704a;
+	text-decoration: none;*/
+	font-weight: bold;
+}
+
+div.box a, div.box a:visited, div.box a:link, div.box a:hover {
+	color: rgb(31,90,142);
+	text-decoration: none;
+}
